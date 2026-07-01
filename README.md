@@ -2,8 +2,6 @@
 
 Welcome. If you're here to check my skills for a role ranker or just wanna look at my coding style, this is pretty much where I dump everything. 
 
-It's mostly just a sandbox for whatever systems I'm making right now.
-
 ---
 
 ### Current Projects
